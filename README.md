@@ -47,7 +47,7 @@ Hey! I'm **Alif** — a passionate Computer Science & Engineering student at **A
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python&theme=dark&perline=3" alt="Skills" height="80"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,c,html,css,bootstrap&theme=dark&perline=3" alt="Skills" height="80"/>
 
 <br/><br/>
 
@@ -55,6 +55,7 @@ Hey! I'm **Alif** — a passionate Computer Science & Engineering student at **A
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
 
 <br/><br/>
 
